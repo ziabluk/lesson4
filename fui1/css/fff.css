@@ -1,0 +1,27 @@
+
+.block__h6{
+    padding: 124px 350px 10px 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+}
+.block__text{
+    padding: 0px 105px 0px 40px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+}
+.block__text1{
+    padding: 0px 111px 0px 40px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+}
+.block__list{
+    padding: 303px 312px 3px 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+}
